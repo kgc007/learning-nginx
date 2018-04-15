@@ -1,0 +1,5 @@
+普通前端匹配的路径，例如location / {}
+抢占式前缀匹配的路径，例如location ^~ / {}
+精确匹配的路径，例如location = / {}
+命名路径，比如location @a {}
+无名路径，比如if {}或者limit_except {}生成的路径

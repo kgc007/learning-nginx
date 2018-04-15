@@ -3,3 +3,5 @@
 精确匹配的路径，例如location = / {}
 命名路径，比如location @a {}
 无名路径，比如if {}或者limit_except {}生成的路径
+
+http://seanlook.com/2015/05/17/nginx-location-rewrite/
